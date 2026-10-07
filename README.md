@@ -308,24 +308,6 @@ For patient-level studies, biological replication, sample-level covariates, batc
 
 The housekeeping-gene-filtered pathway analysis is used for exploratory biological interpretation. The original unfiltered pathway results are also retained.
 
-## Skills demonstrated
-
-**Single-cell RNA-seq / Scanpy**
-
-- QC and filtering
-- normalization
-- PCA / UMAP
-- Leiden clustering
-- marker-based annotation
-- hierarchical subclustering
-- differential expression
-- pathway enrichment
-- biological interpretation
-
-## CV / interview summary
-
-> Performed end-to-end scRNA-seq analysis in Scanpy, including QC, normalization, PCA/UMAP, Leiden clustering, marker-based cell annotation, hierarchical subclustering, differential expression, and pathway enrichment.
-
 ## Disclaimer
 
 This repository is an educational and research demonstration and is not intended for clinical diagnosis or treatment decisions.
