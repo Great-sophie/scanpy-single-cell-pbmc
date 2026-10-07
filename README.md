@@ -46,7 +46,7 @@ adata = sc.datasets.pbmc3k()
 
 PBMC3k contains approximately 3,000 peripheral blood mononuclear cells profiled by single-cell RNA sequencing.
 
-## Day 6 — Core scRNA-seq workflow
+## Core scRNA-seq workflow
 
 The Day 6 analysis performs:
 
