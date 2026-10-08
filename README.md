@@ -88,7 +88,7 @@ The Day 6 analysis performs:
 | Platelets | `PPBP`, `PF4` |
 | Cycling cells | `TYMS`, `PCNA` |
 
-## Day 7 — Hierarchical subclustering
+##  Hierarchical subclustering
 
 The broad lymphoid compartment was further analyzed using hierarchical subclustering.
 
